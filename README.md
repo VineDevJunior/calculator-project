@@ -62,7 +62,6 @@ Navigate into the project folder and open index.html in your browser:
 ```bash
 $ cd calculator-project
 ```
-Tip: If you use VS Code, you can open index.html using the Live Server extension for real-time updates.
 
 ### 🐛 Issues
 Feel free to file a new issue with a respective title and description on the Calculadora repository. If you already found a solution to your problem, I would love to review your pull request!
