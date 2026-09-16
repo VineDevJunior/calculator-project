@@ -54,7 +54,7 @@ Since this project relies strictly on native browser execution, no package manag
 
 ### 1. Clone the repository
 ```bash
-$ git clone [https://github.com/VineDevJunior/calculadora.git](https://github.com/VineDevJunior/calculadora.git)
+$ git clone [https://github.com/VineDevJunior/calculator-project.git](https://github.com/VineDevJunior/calculator-project.git)
 ```
 
 ### 2. Open the project
