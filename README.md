@@ -60,7 +60,7 @@ $ git clone [https://github.com/VineDevJunior/calculator-project.git](https://gi
 ### 2. Open the project
 Navigate into the project folder and open index.html in your browser:
 ```bash
-$ cd calculadora
+$ cd calculator-project
 ```
 Tip: If you use VS Code, you can open index.html using the Live Server extension for real-time updates.
 
