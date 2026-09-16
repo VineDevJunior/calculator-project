@@ -67,5 +67,5 @@ Tip: If you use VS Code, you can open index.html using the Live Server extension
 ### 🐛 Issues
 Feel free to file a new issue with a respective title and description on the Calculadora repository. If you already found a solution to your problem, I would love to review your pull request!
 
-###📝 License
+### 📝 License
 This project is under the MIT License.
