@@ -68,3 +68,5 @@ Feel free to file a new issue with a respective title and description on the Cal
 
 ### 📝 License
 This project is under the MIT License.
+
+Made with ♥ by VineDevJúnior 👋 Get in touch!
